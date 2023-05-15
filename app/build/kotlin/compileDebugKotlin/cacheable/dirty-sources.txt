@@ -1,0 +1,10 @@
+/home/emobilis/AndroidStudioProjects/Loyaltyy2/app/src/main/java/com/example/loyaltyy/DataObject.kt
+/home/emobilis/AndroidStudioProjects/Loyaltyy2/app/src/main/java/com/example/loyaltyy/Splashscreen.kt
+/home/emobilis/AndroidStudioProjects/Loyaltyy2/app/src/main/java/com/example/loyaltyy/User.kt
+/home/emobilis/AndroidStudioProjects/Loyaltyy2/app/src/main/java/com/example/loyaltyy/CardInfo.kt
+/home/emobilis/AndroidStudioProjects/Loyaltyy2/app/src/main/java/com/example/loyaltyy/AddTaskActivity.kt
+/home/emobilis/AndroidStudioProjects/Loyaltyy2/app/src/main/java/com/example/loyaltyy/Adapter.kt
+/home/emobilis/AndroidStudioProjects/Loyaltyy2/app/src/main/java/com/example/loyaltyy/LoginActivity.kt
+/home/emobilis/AndroidStudioProjects/Loyaltyy2/app/src/main/java/com/example/loyaltyy/MainActivity.kt
+/home/emobilis/AndroidStudioProjects/Loyaltyy2/app/src/main/java/com/example/loyaltyy/RegisterActivity.kt
+/home/emobilis/AndroidStudioProjects/Loyaltyy2/app/src/main/java/com/example/loyaltyy/UpdateTaskActivity.kt

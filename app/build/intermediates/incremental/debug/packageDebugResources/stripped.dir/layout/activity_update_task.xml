@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:padding="20dp"
+    tools:context="com.example.ToDoList.UpdateTaskActivity">
+
+    <TextView
+        android:id="@+id/mTvUpdateTask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update Details"
+        android:textColor="@color/black"
+        android:textSize="36sp"
+        android:gravity="center"
+        android:fontFamily="sans-serif"/>
+
+    <EditText
+        android:id="@+id/mEdtUpdateTaskDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:hint="Enter Task"
+        android:padding="15dp"
+        android:background="@drawable/custom_edittext"
+        android:textColor="@color/black"
+        android:textColorHint="#484D51"/>
+
+    <EditText
+        android:id="@+id/mEdtUpdateTaskPriority"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:hint="Priority"
+        android:padding="15dp"
+        android:background="@drawable/custom_edittext"
+        android:textColor="@color/black"
+        android:textColorHint="#484D51"/>
+
+    <LinearLayout
+        android:layout_marginTop="25dp"
+        android:orientation="horizontal"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/mBtnUpdateTask"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Update"
+            android:backgroundTint="@color/green"/>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/mBtnDeleteTask"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delete"
+            android:backgroundTint="#E82A39"/>
+    </LinearLayout>
+
+</LinearLayout>

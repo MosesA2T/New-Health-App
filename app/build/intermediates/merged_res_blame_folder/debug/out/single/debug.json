@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable_loyalty.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/drawable/loyalty.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-hdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/navigation_mobile_navigation.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxxhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-hdpi_baseline_lock_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-hdpi/baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/layout_activity_register.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/layout_activity_splashscreen.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/layout_activity_login.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-mdpi_baseline_phone_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-mdpi/baseline_phone_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-anydpi-v21_baseline_phone_24.xml.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-anydpi-v21/baseline_phone_24.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxhdpi_baseline_email_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxhdpi/baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxxhdpi_baseline_email_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxxhdpi/baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-ldpi_baseline_add_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-ldpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/xml_backup_rules.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-mdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-mdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xhdpi_baseline_add_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xhdpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxxhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xhdpi_baseline_email_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xhdpi/baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-ldpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/layout_activity_add_task.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-anydpi-v21_baseline_add_circle_24.xml.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-anydpi-v21/baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxxhdpi_baseline_person_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxxhdpi/baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxhdpi_baseline_phone_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxhdpi/baseline_phone_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xhdpi_baseline_person_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xhdpi/baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-mdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-mdpi_baseline_email_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-mdpi/baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxxhdpi_baseline_lock_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxxhdpi/baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxhdpi_baseline_lock_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxhdpi/baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-ldpi_baseline_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-ldpi/baseline_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-ldpi_baseline_lock_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-ldpi/baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-ldpi_baseline_email_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-ldpi/baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-hdpi_baseline_person_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-hdpi/baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-anydpi-v21_baseline_person_24.xml.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-anydpi-v21/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable_custom_edittext.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/drawable/custom_edittext.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable_splashscreen.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/drawable/splashscreen.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-hdpi_baseline_add_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-hdpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/layout_activity_update_task.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/layout/activity_update_task.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxxhdpi_baseline_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxxhdpi/baseline_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/layout_activity_main.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xhdpi_baseline_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xhdpi/baseline_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-ldpi_baseline_phone_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-ldpi/baseline_phone_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxxhdpi_baseline_phone_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxxhdpi/baseline_phone_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxhdpi_baseline_person_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxhdpi/baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxhdpi_baseline_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxhdpi/baseline_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-ldpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxxhdpi_baseline_add_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxxhdpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-hdpi_baseline_email_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-hdpi/baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-mdpi_baseline_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-mdpi/baseline_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-mdpi_baseline_lock_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-mdpi/baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-mdpi_baseline_person_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-mdpi/baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-anydpi-v21/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-anydpi-v21_baseline_email_24.xml.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-anydpi-v21/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xhdpi_baseline_phone_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xhdpi/baseline_phone_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable_shoppingcart.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/drawable/shoppingcart.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-mdpi_baseline_add_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-mdpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-hdpi_baseline_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-hdpi/baseline_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-anydpi-v21/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable_loyaltytag.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/drawable/loyaltytag.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxhdpi_baseline_add_circle_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxhdpi/baseline_add_circle_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-anydpi-v21/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-hdpi_baseline_phone_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-hdpi/baseline_phone_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-ldpi_baseline_person_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-ldpi/baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-hdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-ldpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-xhdpi_baseline_lock_24.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-xhdpi/baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-anydpi-v21_baseline_circle_24.xml.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-anydpi-v21/baseline_circle_24.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-anydpi-v21_baseline_lock_24.xml.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-anydpi-v21/baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable_cicularbutton.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/drawable/cicularbutton.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "com.example.loyaltyy.app-pngs-51:/drawable-hdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/drawable_loyaltywidget.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/drawable/loyaltywidget.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.loyaltyy.app-main-57:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.loyaltyy.app-merged_res-55:/layout_view.xml.flat",
+        "source": "com.example.loyaltyy.app-main-57:/layout/view.xml"
+    }
+]
